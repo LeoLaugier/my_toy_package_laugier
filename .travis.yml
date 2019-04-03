@@ -15,3 +15,4 @@ deploy:
     tags: true
     repo: LeoLaugier/my_toy_package_laugier
     python: 3.6
+
